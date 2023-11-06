@@ -1,7 +1,7 @@
 import pathway as pw
 from api import fetch_jobs
 from transformers import RagTokenizer, RagRetriever, RagSequenceForGeneration
-from llm_app import llm_app
+import llm_app
 
 # Fetching the job postings data
 jobs = fetch_jobs()
