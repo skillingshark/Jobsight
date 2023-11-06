@@ -1,0 +1,7 @@
+requests
+pathway
+llm_app
+transformers
+streamlit
+pandas
+python-dotenv
