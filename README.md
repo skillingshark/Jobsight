@@ -4,7 +4,7 @@ Job Market Predictor is a tool that fetches real-time job postings from Workable
 
 ## Technical Implementations
 
-The project fetches real-time job postings from Workable's API. It uses the Pathway's LLM App and its llm_app module to process and analyze the fetched data. In addition, it employs RAG for enhanced analysis and prediction.
+The project fetches real-time job postings from Workable's API. It uses the Pathway library and its llm_app module to process and analyze the fetched data. In addition, it employs RAG for enhanced analysis and prediction.
 
 ## How to Use
 
